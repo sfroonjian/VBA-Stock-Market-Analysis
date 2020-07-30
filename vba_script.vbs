@@ -59,7 +59,6 @@ Sub test():
             End If
         Next i
         
-        '----------CHALLENGE!------------
         Dim greatestPercent As Double
         Dim leastPercent As Double
         Dim greatestVolume As Double
